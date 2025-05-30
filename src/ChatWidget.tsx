@@ -27,7 +27,7 @@ export default function ChatWidget() {
             <button onClick={() => setOpen(false)}>Cerrar</button>
           </div>
           <div>
-            <p>Hola, ¿en qué podemos ayudarte?</p>
+            <p>Hola, ¿en qué podemos ayudarte hoy?</p>
             {/* aquí iría la lógica del chat */}
           </div>
         </div>
