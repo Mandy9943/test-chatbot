@@ -28,6 +28,12 @@ export default function ChatWidget() {
           </div>
           <div>
             <p>Hola, ¿en qué podemos ayudarte hoy?</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
+              omnis aspernatur, consectetur ad aliquam ratione dolore magnam
+              sunt autem ipsum optio amet a dignissimos sint. Harum nesciunt
+              laudantium fugiat totam.
+            </p>
             {/* aquí iría la lógica del chat */}
           </div>
         </div>
